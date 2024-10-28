@@ -33,3 +33,4 @@ Usage Instructions
 step: 
 clone the repository
 git clone
+https://github.com/Sivadevkm/simplecalc.git
